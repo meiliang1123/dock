@@ -1,0 +1,11 @@
+<html>
+  <body>
+    <noscript>
+      <a href="https://accounts.shopify.com/oauth/authorize?client_id=7ee65a63608843c577db8b23c4d7316ea0a01bd2f7594f8a9c06ea668c1b775c&amp;destination_uuid=784c3ed8-863d-4cae-82f2-502d2651fda3&amp;nonce=22df2bf3e155f3d68ce616667da693ed&amp;prompt=merge&amp;redirect_uri=https%3A%2F%2F9fx1mn-n0.myshopify.com%2Fadmin%2Fauth%2Fidentity%2Fcallback&amp;response_type=code&amp;scope=email%20https%3A%2F%2Fapi.shopify.com%2Fauth%2Fdestinations.readonly%20openid%20profile%20https%3A%2F%2Fapi.shopify.com%2Fauth%2Fpartners.collaborator-relationships.readonly%20https%3A%2F%2Fapi.shopify.com%2Fauth%2Fbanking.manage%20https%3A%2F%2Fapi.shopify.com%2Fauth%2Fmerchant-setup-dashboard.graphql%20https%3A%2F%2Fapi.shopify.com%2Fauth%2Fshopify-chat.admin.graphql%20https%3A%2F%2Fapi.shopify.com%2Fauth%2Fflow.workflows.manage%20https%3A%2F%2Fapi.shopify.com%2Fauth%2Forganization-identity.manage%20https%3A%2F%2Fapi.shopify.com%2Fauth%2Fmerchant-bank-account.manage%20https%3A%2F%2Fapi.shopify.com%2Fauth%2Fshopify-tax.manage&amp;state=55f3be4fbdb46778dbca3406481b3ba3&amp;ui_locales=en&amp;ux=shop">Continue</a>
+    </noscript>
+
+    <script type="text/javascript" defer>
+      window.location = "https:\/\/accounts.shopify.com\/oauth\/authorize?client_id=7ee65a63608843c577db8b23c4d7316ea0a01bd2f7594f8a9c06ea668c1b775c\u0026destination_uuid=784c3ed8-863d-4cae-82f2-502d2651fda3\u0026nonce=22df2bf3e155f3d68ce616667da693ed\u0026prompt=merge\u0026redirect_uri=https%3A%2F%2F9fx1mn-n0.myshopify.com%2Fadmin%2Fauth%2Fidentity%2Fcallback\u0026response_type=code\u0026scope=email%20https%3A%2F%2Fapi.shopify.com%2Fauth%2Fdestinations.readonly%20openid%20profile%20https%3A%2F%2Fapi.shopify.com%2Fauth%2Fpartners.collaborator-relationships.readonly%20https%3A%2F%2Fapi.shopify.com%2Fauth%2Fbanking.manage%20https%3A%2F%2Fapi.shopify.com%2Fauth%2Fmerchant-setup-dashboard.graphql%20https%3A%2F%2Fapi.shopify.com%2Fauth%2Fshopify-chat.admin.graphql%20https%3A%2F%2Fapi.shopify.com%2Fauth%2Fflow.workflows.manage%20https%3A%2F%2Fapi.shopify.com%2Fauth%2Forganization-identity.manage%20https%3A%2F%2Fapi.shopify.com%2Fauth%2Fmerchant-bank-account.manage%20https%3A%2F%2Fapi.shopify.com%2Fauth%2Fshopify-tax.manage\u0026state=55f3be4fbdb46778dbca3406481b3ba3\u0026ui_locales=en\u0026ux=shop";
+    </script>
+  </body>
+</html>
